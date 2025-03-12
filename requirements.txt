@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+langchain
+streamlit-pdf-viewer
+langchain-community
+FAISS
+ollama
+requests
+tempfile
+datetime
+pandas
+numpy
